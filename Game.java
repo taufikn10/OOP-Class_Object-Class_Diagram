@@ -9,7 +9,6 @@ class Player{
     Attack attack;
     Kick kick;
 
-
 Player(String name, double lifepoint){
     this.name = name;
     this.lifepoint = lifepoint;
@@ -80,7 +79,6 @@ class Kick{
     }
 }
 
-
 public class Game{
 
     public static void main(String[] args) {
@@ -131,6 +129,3 @@ public class Game{
         System.out.println("\nSub-Zero WIN");
     }
 }
-
-
- 
