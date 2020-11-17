@@ -1,5 +1,8 @@
 package com.yoman;
-
+/**
+ *
+ * @author Taufik
+ */
 // player
 class Player{
     String name;
@@ -50,7 +53,7 @@ void display(){
 }
 }
 
-// senjata
+// Attack
 class Attack{
     double attackhitpoint;
     String name;
