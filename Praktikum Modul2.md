@@ -2,7 +2,7 @@
 
 Latihan 1
 
-Seorang developer ingin membuat sebuah simulasi fighting game menggunakan konsep PBO.
+Seorang developer ingin membuat sebuah simulasi fighting game menggunakan konsep PBO.Setelah menganalisis kebutuhan, class diagram yang dihasilkan adalah sebagai berikut:
 
 Latihan 2
 
